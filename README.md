@@ -46,15 +46,15 @@ Additional functions:
 More details are given inside of functions and script "main.m"
 
 Initial data:
-* distribution_transformer_temp_ageing - precalculated data for distrbution transformer (up to 2.5 MVA)
-* initial_data - daily load profile + ambient temperature.
-* OD_temp_ageing - precalculated data for OD power transformer (up to 100 MVA).  
-* OF_temp_ageing - precalculated data for OF power transformer (up to 100 MVA).  
-* ONAF_temp_ageing - precalculated data for ONAF power transformer (up to 100 MVA).  
-* ONAN_temp_ageing - precalculated data for ONAN power transformer (up to 100 MVA).  
-* T_history_Grenoble - historical ambient temperature in Grenoble, France
-* T_history_Tomsk - historical ambient temperature in Tomsk, Russia
-* Tamb_february_1_2019 - profile of ambient temperature 
+* distribution_transformer_temp_ageing.mat - precalculated data for distrbution transformer (up to 2.5 MVA)
+* initial_data.mat - daily load profile + ambient temperature.
+* OD_temp_ageing.mat - precalculated data for OD power transformer (up to 100 MVA).  
+* OF_temp_ageing.mat - precalculated data for OF power transformer (up to 100 MVA).  
+* ONAF_temp_ageing.mat - precalculated data for ONAF power transformer (up to 100 MVA).  
+* ONAN_temp_ageing.mat - precalculated data for ONAN power transformer (up to 100 MVA).  
+* T_history_Grenoble.mat - historical ambient temperature in Grenoble, France
+* T_history_Tomsk.mat - historical ambient temperature in Tomsk, Russia
+* Tamb_february_1_2019.mat - profile of ambient temperature 
 
 ## How to cite this article 
 Ildar Daminov, Anton Prokhorov, Raphael Caire, Marie-Cécile Alvarez-Herault, "Energy limit of oil‐immersed transformers: A concept and its application in different climate conditions". IET Generation, Transmission & Distribution, 15(3), 495-507.  https://doi.org/10.1049/gtd2.12036 
