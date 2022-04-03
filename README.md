@@ -28,7 +28,8 @@ II. Launching the specific section of the code to reproduce the particular figur
 2. Open the script main.m 
 3. Find the section (Plotting the Figure XX) corresponding to the Figure you would like to reproduce. 
 4. Put the cursor at any place of this section and click on the button "Run Section" (usually located at the top of MATLAB bar)
-
+  
+Attention! The code uses fcn2optimexpr which is available since MATLAB 2019!
 
 ## Files description
 Main script:
