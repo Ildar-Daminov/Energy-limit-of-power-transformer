@@ -1,7 +1,6 @@
 # Energy limit of oil-immersed transformers: A concept and its application in different climate conditions
 <img align="left" alt="Coding" width="70" src="https://ietresearch.onlinelibrary.wiley.com/cms/asset/3a85b982-576e-4f87-8c2d-2725562b7946/gtd2.v15.3.cover.jpg">
 
-  
 This repository shares the MATLAB code and data for the research article :
   
 I. Daminov, A. Prokhorov, R. Caire, M-C Alvarez-Herault, [“Energy limit of oil‐immersed transformers: A concept and its application in different climate conditions”](https://doi.org/10.1049/gtd2.12036) in IET Generation, Transmission & Distribution (IF: 2,862, Q1), 2021, 
