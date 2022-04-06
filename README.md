@@ -54,8 +54,8 @@ Initial data:
 * OF_temp_ageing.mat - precalculated data for OF power transformer (up to 100 MVA).  
 * ONAF_temp_ageing.mat - precalculated data for ONAF power transformer (up to 100 MVA).  
 * ONAN_temp_ageing.mat - precalculated data for ONAN power transformer (up to 100 MVA).  
-* T_history_Grenoble.mat - historical ambient temperature in Grenoble, France
-* T_history_Tomsk.mat - historical ambient temperature in Tomsk, Russia
+* T_history_Grenoble.mat - historical ambient temperature in Grenoble, France (source: [MeteoBlue](https://www.meteoblue.com/fr/historyplus))
+* T_history_Tomsk.mat - historical ambient temperature in Tomsk, Russia (source: [MeteoBlue](https://www.meteoblue.com/fr/historyplus))
 * Tamb_february_1_2019.mat - profile of ambient temperature 
 
 ## How to cite this article 
