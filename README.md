@@ -1,5 +1,5 @@
 # Energy limit of oil-immersed transformers: A concept and its application in different climate conditions
-<img align="left" alt="Coding" width="90" src="https://ietresearch.onlinelibrary.wiley.com/cms/asset/3a85b982-576e-4f87-8c2d-2725562b7946/gtd2.v15.3.cover.jpg">
+<img align="left" alt="IET" width="90" src="https://ietresearch.onlinelibrary.wiley.com/cover/17518695/15/1">
 
 This repository shares the MATLAB code and data for the research article :
   
