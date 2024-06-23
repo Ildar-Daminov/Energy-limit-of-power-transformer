@@ -1,3 +1,6 @@
+[![DOI](https://zenodo.org/badge/416073689.svg)](https://zenodo.org/doi/10.5281/zenodo.12510053)
+[![DOI:10.1049/gtd2.12036](http://img.shields.io/badge/DOI-10.1049/gtd2.12036-B31B1B.svg)](https://doi.org/10.1049/gtd2.12036)
+
 # Energy limit of oil-immersed transformers: A concept and its application in different climate conditions
 
 This repository shares the MATLAB code and data for the research article :
